@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8259" started-at="2021-12-29T21:27:31 ART" finished-at="2021-12-29T21:27:39 ART">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8259" started-at="2021-12-29T21:27:31 ART" finished-at="2021-12-29T21:27:39 ART">
+      <class name="EduIt.EducacionIt.pruebas.Laboratorio3_E1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:EduIt.EducacionIt.pruebas.Laboratorio3_E1@11438d26]" name="setup" is-config="true" duration-ms="3815" started-at="2021-12-29T21:27:27 ART" finished-at="2021-12-29T21:27:31 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="irUrl()[pri:0, instance:EduIt.EducacionIt.pruebas.Laboratorio3_E1@11438d26]" name="irUrl" is-config="true" duration-ms="4174" started-at="2021-12-29T21:27:31 ART" finished-at="2021-12-29T21:27:35 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- irUrl -->
+        <test-method status="PASS" signature="maximizaNavegador()[pri:0, instance:EduIt.EducacionIt.pruebas.Laboratorio3_E1@11438d26]" name="maximizaNavegador" is-config="true" duration-ms="192" started-at="2021-12-29T21:27:35 ART" finished-at="2021-12-29T21:27:36 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizaNavegador -->
+        <test-method status="PASS" signature="registroUsuario()[pri:0, instance:EduIt.EducacionIt.pruebas.Laboratorio3_E1@11438d26]" name="registroUsuario" duration-ms="2767" started-at="2021-12-29T21:27:36 ART" description="Prueba registro de usuario" finished-at="2021-12-29T21:27:38 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registroUsuario -->
+        <test-method status="PASS" signature="cerrarPagina()[pri:0, instance:EduIt.EducacionIt.pruebas.Laboratorio3_E1@11438d26]" name="cerrarPagina" is-config="true" duration-ms="1006" started-at="2021-12-29T21:27:38 ART" finished-at="2021-12-29T21:27:39 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cerrarPagina -->
+        <test-method status="PASS" signature="finSuite()[pri:0, instance:EduIt.EducacionIt.pruebas.Laboratorio3_E1@11438d26]" name="finSuite" is-config="true" duration-ms="1" started-at="2021-12-29T21:27:39 ART" finished-at="2021-12-29T21:27:39 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finSuite -->
+      </class> <!-- EduIt.EducacionIt.pruebas.Laboratorio3_E1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,6 +1,6 @@
 package EduIt.EducacionIt;
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -40,8 +40,8 @@ public class Laboratorio2 {
 		inputClave.sendKeys("12345");
 		
 		//Elemento Mes
-		Select mes = new Select(myWait.until(ExpectedConditions.elementToBeClickable(By.id("months"))));
-		mes.selectByVisibleText("April");
+		//Select mes = new Select(myWait.until(ExpectedConditions.elementToBeClickable(By.id("months"))));
+		//mes.selectByVisibleText("April");
 
 		
 		d.quit();
